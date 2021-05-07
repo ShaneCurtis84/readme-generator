@@ -59,7 +59,7 @@ const questions = [
       {
       type: 'input',
       name: 'github',
-      message: 'Please enter your Github profile link URL',
+      message: 'Please enter your Github username',
     },
     {
       type: 'input',

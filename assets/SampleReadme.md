@@ -26,8 +26,6 @@
 
   For a video guide please see https://drive.google.com/file/d/1o_MeBJeQ16CQIb2cAkkw851rdMOMAF07/view
 
-  ![Sceenshot 1](https://github.com/ShaneCurtis84/readme-generator/blob/main/assets/images/screenshot1.PNG)
-
   ## License
 
   This application is licensed under MIT (https://choosealicense.com/licenses/mit/)
